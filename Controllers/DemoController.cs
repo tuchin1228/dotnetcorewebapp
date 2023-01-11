@@ -20,7 +20,7 @@ namespace dotnetcorewebapp.Controllers
         {
             return Ok(new
             {
-                message="index"
+                message="index 88888"
             });
         }
 
